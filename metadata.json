@@ -1,0 +1,7 @@
+{
+  "name": "Parimal Computers - CSC & Government Services",
+  "description": "A production-ready citizen service center portal providing government and digital services like Leave & License agreements, PAN, Passport, and Travel bookings.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
